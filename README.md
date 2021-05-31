@@ -11,3 +11,9 @@ Steps to create the Parch & Posey database schema:
   6. Enter the password for postgres user when prompted
 
 Your database is now ready!
+
+The schema of the Parch & Posey database is as below
+[logo]: https://github.com/vbang247/SQL-for-Data-Analysis/schema.png "Logo Title Text 2"
+
+
+
